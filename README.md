@@ -5,3 +5,4 @@ HERE IS THE CODE :)
 2. Merge Sort
 3. Bubble Sort
 4. Selection Sort
+5. Insertion Sort
