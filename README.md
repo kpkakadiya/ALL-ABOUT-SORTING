@@ -6,3 +6,4 @@ HERE IS THE CODE :)
 3. Bubble Sort
 4. Selection Sort
 5. Insertion Sort
+6. Count Sort
