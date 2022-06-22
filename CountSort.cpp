@@ -4,7 +4,7 @@ using namespace std;
 void CountSort(int arr[],int n){
     //find max in array
     int k=arr[0];
-    for(int i=0;i<n;i++)
+    for(int i=1;i<n;i++)
         k=max(arr[i],k);
     //make count array
     int count[100]={0};    
